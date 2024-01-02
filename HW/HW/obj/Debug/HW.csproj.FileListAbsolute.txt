@@ -1,0 +1,12 @@
+C:\Users\Gleb\source\repos\HW\HW\bin\Debug\HW.exe.config
+C:\Users\Gleb\source\repos\HW\HW\bin\Debug\HW.exe
+C:\Users\Gleb\source\repos\HW\HW\bin\Debug\HW.pdb
+C:\Users\Gleb\source\repos\HW\HW\obj\Debug\HW.csprojAssemblyReference.cache
+C:\Users\Gleb\source\repos\HW\HW\obj\Debug\HW.Form1.resources
+C:\Users\Gleb\source\repos\HW\HW\obj\Debug\HW.Properties.Resources.resources
+C:\Users\Gleb\source\repos\HW\HW\obj\Debug\HW.csproj.GenerateResource.cache
+C:\Users\Gleb\source\repos\HW\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\HW\HW\obj\Debug\HW.exe
+C:\Users\Gleb\source\repos\HW\HW\obj\Debug\HW.pdb
+C:\Users\glebz\Downloads\HW\HW\HW\obj\Debug\HW.exe
+C:\Users\glebz\Downloads\HW\HW\HW\obj\Debug\HW.pdb
